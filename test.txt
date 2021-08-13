@@ -1,0 +1,1 @@
+r for read file, w for write, a for append
